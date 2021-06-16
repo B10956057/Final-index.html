@@ -37,7 +37,7 @@ li {
 
 #intro .jumbotron {
     height: 100vh;
-    background-image: url("https://www.clouding-ai.com/download/hd/风景/晚霞天空下的田园风景/15858cc0-cn.jpg");
+    background-image: url("https://www.clouding-ai.com/download/hd/風景/晚霞天空下的田園風景/15858cc0-cn.jpg");
 }
 
 #intro h1 {
@@ -317,6 +317,9 @@ footer ul li a {
 }
 
 @media only screen and (max-width:768px) {
+     #second {
+        height: fit-content;
+    }
     #second h5 {
         margin-bottom: 63px;
     }
