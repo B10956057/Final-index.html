@@ -197,6 +197,8 @@ footer {
     border-top: solid 1px white;
     padding: 80px 0px;
     background-color: #85B8CB;
+    height: 300px;
+    margin: 0px;
 }
 
 footer h4 {
