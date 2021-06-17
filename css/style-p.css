@@ -252,4 +252,7 @@ footer img {
         margin-bottom: 26px;
         margin-top: 35px;
     }
+    footer {
+        height: fit-content;
+    }
 }
